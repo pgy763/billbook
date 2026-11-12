@@ -5,6 +5,9 @@
 
 ![年度报告](docs/poster.png)
 
+不想先跑一遍的话，[`docs/demo.html`](docs/demo.html) 是拿 `demo/` 里那份演示账单
+生成的完整报告 —— 单文件、双击即开，图表和交互都在。
+
 ---
 
 ## 为什么做这个
